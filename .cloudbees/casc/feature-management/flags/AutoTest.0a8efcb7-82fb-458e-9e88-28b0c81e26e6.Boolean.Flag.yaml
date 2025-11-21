@@ -2,7 +2,7 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: flag
 
-flag: AutoTest.51656d89-1e70-416d-aeb9-5db9592105c2.Boolean.Flag
+flag: AutoTest.0a8efcb7-82fb-458e-9e88-28b0c81e26e6.Boolean.Flag
 flagType: boolean
 description: AutoTest Description
 labels:
