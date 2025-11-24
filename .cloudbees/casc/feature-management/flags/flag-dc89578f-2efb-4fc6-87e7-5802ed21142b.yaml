@@ -1,0 +1,11 @@
+apiVersion: featuremanagement.cloudbees.io/v1alpha1
+      kind: flag
+
+      flag: flag-dc89578f-2efb-4fc6-87e7-5802ed21142b
+      flagType: number
+      description: "Flag created via direct commit"
+      labels:
+
+      availableValues:
+
+      isPermanent: false
