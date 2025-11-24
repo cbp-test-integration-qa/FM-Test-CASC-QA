@@ -1,0 +1,11 @@
+apiVersion: featuremanagement.cloudbees.io/v1alpha1
+      kind: flag
+
+      flag: AutoTest-Direct-CommitFlag-d5b815f4-9a31-4047-8d42-e49c128161b0
+      flagType: number
+      description: "Flag created via direct commit"
+      labels:
+
+      availableValues:
+
+      isPermanent: false
